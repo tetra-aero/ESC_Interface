@@ -172,6 +172,7 @@
       "track_widths": [
         0.0,
         0.4,
+        0.8,
         1.0
       ],
       "via_dimensions": [
@@ -405,7 +406,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "P1_DSUB25_Male_V0.kicad_pro",
+    "filename": "P1_DSUB25_Male_V1.kicad_pro",
     "version": 1
   },
   "net_settings": {
