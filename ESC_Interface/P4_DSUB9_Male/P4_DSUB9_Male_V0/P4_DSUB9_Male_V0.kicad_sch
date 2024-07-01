@@ -447,7 +447,7 @@
   (symbol (lib_id "Connector_Generic:Conn_2Rows-09Pins_DSUB") (at 158.75 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 720e3490-1ffd-4288-9b9e-05635a7a5fad)
-    (property "Reference" "J2" (at 158.75 64.77 0)
+    (property "Reference" "J5" (at 158.75 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_2Rows-09Pins" (at 158.75 67.31 0)
@@ -470,9 +470,9 @@
     (pin "2" (uuid e6ad432f-db90-46ed-bdeb-cc8deda002c1))
     (pin "10" (uuid 872aa442-ddb4-46c1-838c-77afdabdcb5e))
     (instances
-      (project "DSUB9_Male"
+      (project "P4_DSUB9_Male_V0"
         (path "/105f448c-cc44-46f7-8e84-435fd9b748b1"
-          (reference "J2") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )
@@ -513,7 +513,7 @@
     (pin "5" (uuid 61b82b9a-ff9e-4d88-8610-7834e6e47d2a))
     (pin "7" (uuid 6cc0b76b-7094-45bd-822f-31c03fc41113))
     (instances
-      (project "DSUB9_Male"
+      (project "P4_DSUB9_Male_V0"
         (path "/105f448c-cc44-46f7-8e84-435fd9b748b1"
           (reference "P4") (unit 1)
         )
@@ -538,7 +538,7 @@
     )
     (pin "1" (uuid f413dc03-0378-4a7a-8697-80baa018c70f))
     (instances
-      (project "DSUB9_Male"
+      (project "P4_DSUB9_Male_V0"
         (path "/105f448c-cc44-46f7-8e84-435fd9b748b1"
           (reference "#PWR01") (unit 1)
         )
