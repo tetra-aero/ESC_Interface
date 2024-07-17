@@ -5630,15 +5630,15 @@
 	)
 	(symbol
 		(lib_id "Connector:DA15_Plug_MountingHoles")
-		(at 31.75 151.13 180)
+		(at 144.78 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "619f952a-f2d8-48ea-8ef5-7a48785d78d8")
-		(property "Reference" "P3"
-			(at 26.67 152.4 0)
+		(property "Reference" "P2"
+			(at 139.7 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5647,7 +5647,7 @@
 			)
 		)
 		(property "Value" "DSUB15 Female"
-			(at 39.37 173.736 0)
+			(at 152.4 73.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5656,7 +5656,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Dsub:DSUB-15_Male_EdgeMount_P2.77mm_1"
-			(at 31.75 151.13 0)
+			(at 144.78 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5665,7 +5665,7 @@
 			)
 		)
 		(property "Datasheet" " https://www.amphenol-cs.com/media/wysiwyg/files/drawing/c-dsub-0064.pdf "
-			(at 31.75 151.13 0)
+			(at 144.78 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5674,7 +5674,7 @@
 			)
 		)
 		(property "Description" "15 Position D-Sub Plug, Male Pins Connector "
-			(at 31.75 151.13 0)
+			(at 144.78 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5683,7 +5683,7 @@
 			)
 		)
 		(property "MPN" "DA15P064HTXLF"
-			(at 31.75 151.13 0)
+			(at 144.78 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5692,7 +5692,7 @@
 			)
 		)
 		(property "Link" "https://www.digikey.jp/en/products/detail/amphenol-cs-fci/DA15P064HTXLF/1536743 "
-			(at 31.75 151.13 0)
+			(at 144.78 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5751,7 +5751,7 @@
 		(instances
 			(project "ESC_Interface_All"
 				(path "/bf8f5c90-8ff0-43e2-b961-b1dc2fdb4261"
-					(reference "P3")
+					(reference "P2")
 					(unit 1)
 				)
 			)
@@ -5962,7 +5962,7 @@
 	)
 	(symbol
 		(lib_id "Connector:DA15_Plug_MountingHoles")
-		(at 144.78 50.8 0)
+		(at 31.75 151.13 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5970,8 +5970,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94eef123-6745-43ec-97c9-cf7326b4e470")
-		(property "Reference" "P2"
-			(at 139.7 49.53 0)
+		(property "Reference" "P3"
+			(at 26.67 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5980,7 +5980,7 @@
 			)
 		)
 		(property "Value" "DSUB15 Male"
-			(at 139.7 52.07 0)
+			(at 38.1 175.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5989,7 +5989,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Dsub:DSUB-15_Male_EdgeMount_P2.77mm_1"
-			(at 144.78 50.8 0)
+			(at 31.75 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5998,7 +5998,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_dsub_brochure.pdf"
-			(at 144.78 50.8 0)
+			(at 31.75 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6007,7 +6007,7 @@
 			)
 		)
 		(property "Description" "CONN D-SUB RCPT 15POS SLDR CUP"
-			(at 144.78 50.8 0)
+			(at 31.75 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6016,7 +6016,7 @@
 			)
 		)
 		(property "MPN" "DA15S065HTLF"
-			(at 144.78 50.8 0)
+			(at 31.75 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6025,7 +6025,7 @@
 			)
 		)
 		(property "Link" "https://www.digikey.jp/en/products/detail/amphenol-icc-fci/DA15S065HTLF/1540823"
-			(at 144.78 50.8 0)
+			(at 31.75 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6084,7 +6084,7 @@
 		(instances
 			(project "ESC_Interface_All"
 				(path "/bf8f5c90-8ff0-43e2-b961-b1dc2fdb4261"
-					(reference "P2")
+					(reference "P3")
 					(unit 1)
 				)
 			)
